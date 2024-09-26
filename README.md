@@ -1,4 +1,4 @@
-[Bonfire](https://github.com/Guraspinho/Guraspinho/blob/main/dark-souls-bonfire.gif)
+![](https://github.com/Guraspinho/Guraspinho/blob/main/dark-souls-bonfire.gif)
 
 <!--
 **Guraspinho/Guraspinho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
