@@ -1,4 +1,8 @@
-![](https://github.com/Guraspinho/Guraspinho/blob/main/dark-souls-bonfire.gif)
+<div style="text-align: center;">
+  <h1>Welcome to My Project!</h1>
+  <img src="https://github.com/Guraspinho/Guraspinho/blob/main/dark-souls-bonfire.gif" alt="Dark Souls Bonfire" width="300">
+  <p>This is a brief description of what my project does.</p>
+</div>
 
 <!--
 **Guraspinho/Guraspinho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
